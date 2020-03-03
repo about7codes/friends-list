@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/about7codes/friends-list/static/css/main.325ee868.chunk.css",
+    "main.js": "/about7codes/friends-list/static/js/main.dd7d238c.chunk.js",
+    "main.js.map": "/about7codes/friends-list/static/js/main.dd7d238c.chunk.js.map",
+    "runtime-main.js": "/about7codes/friends-list/static/js/runtime-main.887b3134.js",
+    "runtime-main.js.map": "/about7codes/friends-list/static/js/runtime-main.887b3134.js.map",
+    "static/js/2.f92396c5.chunk.js": "/about7codes/friends-list/static/js/2.f92396c5.chunk.js",
+    "static/js/2.f92396c5.chunk.js.map": "/about7codes/friends-list/static/js/2.f92396c5.chunk.js.map",
+    "index.html": "/about7codes/friends-list/index.html",
+    "precache-manifest.9b32dc03f85948a5636a02dba6fb0865.js": "/about7codes/friends-list/precache-manifest.9b32dc03f85948a5636a02dba6fb0865.js",
+    "service-worker.js": "/about7codes/friends-list/service-worker.js",
+    "static/css/main.325ee868.chunk.css.map": "/about7codes/friends-list/static/css/main.325ee868.chunk.css.map",
+    "static/js/2.f92396c5.chunk.js.LICENSE.txt": "/about7codes/friends-list/static/js/2.f92396c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.887b3134.js",
+    "static/js/2.f92396c5.chunk.js",
+    "static/css/main.325ee868.chunk.css",
+    "static/js/main.dd7d238c.chunk.js"
+  ]
+}
